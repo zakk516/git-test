@@ -1,0 +1,1 @@
+This is some sample text about git for the odin lab project
